@@ -59,4 +59,4 @@ Este repositorio registra uma etapa inicial de aprendizado em Python, com foco e
 
 ## Autoria
 
-Desenvolvido por Michele Santana - Kalion Tecnologia.
+Desenvolvido por Alexandre Santana dos Santos - Kalion Tecnologia.
